@@ -1,0 +1,17 @@
+INDEX VERSION 1.127+D:\Coursera\Stanford-Algorithms\workspace\.metadata\.plugins\org.eclipse.jdt.core
+2047756924.index
+2273796232.index
+4160748565.index
+3777004436.index
+1797510834.index
+1971387143.index
+4044289298.index
+3449079409.index
+420119924.index
+751460248.index
+3338466061.index
+2350945717.index
+1800603366.index
+4167095291.index
+2430493581.index
+92977833.index
